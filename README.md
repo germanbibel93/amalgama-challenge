@@ -20,7 +20,7 @@ Este proyecto es una aplicación de React creada para el desafío de autenticaci
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/amalgama-challenge.git
+   git clone git@github.com:germanbibel93/amalgama-challenge.git
    ```
 
 2. Navega al directorio del proyecto:
